@@ -1,24 +1,23 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Patricia Uemura 👩‍💻 <img src="https://camo.githubusercontent.com/8dd1044426df54e4ae42f9df9d1957f058c02333f8776e66dc6d371a442529af/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313539333535353338392f393537392f626c6f625f657863697465642e6769663f31353933353535333839" width="30px">
-I am passionate about technologies and love to learn new things.
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Olá, sou Reginaldo Rodrigues 👨‍💻 <img src="https://camo.githubusercontent.com/8dd1044426df54e4ae42f9df9d1957f058c02333f8776e66dc6d371a442529af/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313539333535353338392f393537392f626c6f625f657863697465642e6769663f31353933353535333839" width="30px">
+Gosto de ajudar pessoas, trabalhar em projetos, tecnologia e artes
 
 
 
 
-## 👩‍💻 About me
-- <img src="https://user-images.githubusercontent.com/75175561/145031994-bb208df9-b860-4362-8b73-f1945ade92fa.png" width="20px">  I'm from Brazil, São Paulo
+## 👩‍💻 Sobre mim
+- <img src="https://user-images.githubusercontent.com/75175561/145031994-bb208df9-b860-4362-8b73-f1945ade92fa.png" width="20px">  Sou de São Paulo, Brasil
 - 💻 Love Technology
-- 📚 Knowledge in admin, finance and marketing
+- 📚 Conhecimento em projetos de embalagens
 
 
 
 ## 🛠️ Tech Stack
-Here are a few things I've picked up along my learning journey.
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" /> -->
 </div>
 
 
